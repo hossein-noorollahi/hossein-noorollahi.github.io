@@ -1,3 +1,7 @@
+---
+layout: default
+title: Projects
+---
 # Featured Projects
 
 ## 1. AI-based Drug Design for Type 2 Diabetes  
