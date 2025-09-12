@@ -1,3 +1,7 @@
+---
+layout: default
+title: Contact
+---
 # Contact Me
 📧 **Email:** noorollahih@gmail.com  
 🌐 **GitHub:** [github.com/hossein-noorollahi](https://github.com/hossein-noorollahi)  
