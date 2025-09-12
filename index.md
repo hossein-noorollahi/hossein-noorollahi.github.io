@@ -9,12 +9,12 @@ title: Home
   <h1>Hossein Noorollahi</h1>
   <h3>PhD Candidate in Molecular Genetics | Bioinformatics Specialist | AI-driven Drug Design Expert</h3>
   
-  <p style="max-width:600px; margin:auto; font-size: 1.1em;">
+  <p style="max-width:650px; margin:auto; font-size: 1.1em; line-height: 1.6;">
     I specialize in <strong>Bioinformatics</strong>, <strong>Computational Biology</strong>, and <strong>AI-powered Drug Discovery</strong> 
     with over 10 years of research and academic experience.
   </p>
 
-  <div style="margin-top:20px;">
+  <div style="margin-top:25px;">
     <a class="button-link" href="./projects">🔬 View My Projects</a>
     <a class="button-link" href="./about">📄 About Me</a>
     <a class="button-link" href="./contact">📬 Contact</a>
