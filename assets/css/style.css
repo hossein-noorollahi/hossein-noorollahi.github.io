@@ -77,6 +77,21 @@ footer {
 .button-link:hover {
   background-color: #004d99;
 }
+.button-link {
+  display: inline-block;
+  background-color: #0066cc;
+  color: white !important;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.button-link:hover {
+  background-color: #004d99;
+}
 /* ==== Project Cards Style ==== */
 .projects-grid {
   display: grid;
