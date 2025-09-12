@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Hossein Noorollahi
 
 **PhD Candidate in Molecular Genetics | Bioinformatics Specialist | AI-driven Drug Design Expert**
