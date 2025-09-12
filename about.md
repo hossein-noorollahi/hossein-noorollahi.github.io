@@ -1,3 +1,7 @@
+---
+layout: default
+title: About
+---
 # About Me  
 
 I am Hossein Noorollahi, a Bioinformatics and AI Specialist and PhD Candidate in Molecular Genetics at Islamic Azad University, Tehran.  
